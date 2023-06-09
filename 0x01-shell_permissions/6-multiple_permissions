@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod 777 hello
+=======
+chmod 777/ugo/a
+>>>>>>> b3a43d162a7a264246fc251de5ab9788ca17a063
